@@ -755,7 +755,7 @@ svg circle:nth-child(2){
   background: #f4f4f4;
   text-align: center;
   border-radius: 0px 10px 10px 0px ;
-  z-index: 10000;
+  z-index: 2000;
 }
 .coverfront h5{
   color:#333 !important;
@@ -764,6 +764,7 @@ svg circle:nth-child(2){
   background: #ddd !important;
   border-radius: 10px 0px 0px 10px;
   transform:rotateY(180deg);
+  z-index: 1500;
 }
 /* .sh_img{
   width:100%;
